@@ -1,0 +1,10 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore test and temporary files
+*.log
+*.env
+*.test.js
+
+# Ignore build files
+/dist

@@ -1,14 +1,20 @@
 {
-  "name": "cloudy-upload",
-  "version": "1.0.0",
+  "name": "cloudy-upload",  
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "cloudinary",
+    "upload",
+    "image",
+    "file-upload",
+    "cloud-upload"
+  ],
+  "author": "Your Name",
   "license": "ISC",
-  "description": "",
+  "description": "A lightweight utility to easily upload images to Cloudinary and get their public URL.",
   "dependencies": {
     "axios": "^1.8.4",
     "form-data": "^4.0.2"
